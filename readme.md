@@ -53,7 +53,11 @@ const int buttonPin2 = 23;
 
 ## For more simple version check [version 1](https://github.com/eroge69/ESP32-BLE-Touchpad-ELAN/tree/1)
 
--
+
+<p align="center">
+  <img width="500"src="https://github.com/user-attachments/assets/aaabe58a-eac6-4bd5-be8c-f0b04bbcb28c">
+</p>
+
 
 ## Contribution
 
